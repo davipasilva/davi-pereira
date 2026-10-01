@@ -2,7 +2,7 @@
 
 Interface moderna inspirada na Amazon, desenvolvida com Vue 3, Vite e Tailwind CSS v4.
 
-🔗 **Demonstração Online:** [https://davipasilva.github.io/amazon/](https://davipasilva.github.io/amazon/)
+🔗 **Demonstração Online:** [https://davipasilva.github.io/davi-pereira/](https://davipasilva.github.io/davi-pereira/)
 
 ---
 
@@ -21,8 +21,8 @@ Interface moderna inspirada na Amazon, desenvolvida com Vue 3, Vite e Tailwind C
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/davipasilva/amazon.git
-cd amazon
+git clone https://github.com/davipasilva/davi-pereira.git
+cd davi-pereira
 npm install
 ```
 

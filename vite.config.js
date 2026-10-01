@@ -9,7 +9,7 @@ import { copyFileSync, existsSync } from 'node:fs'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? '/amazon/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/davi-pereira/' : '/',
   plugins: [
     vue(),
     tailwindcss(),
