@@ -1,4 +1,4 @@
-# Amazon Clone 🛒
+# Amazon Clone
 
 Interface moderna inspirada na Amazon, desenvolvida com Vue 3, Vite e Tailwind CSS v4.
 
@@ -6,7 +6,7 @@ Interface moderna inspirada na Amazon, desenvolvida com Vue 3, Vite e Tailwind C
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 - [Vue 3](https://vuejs.org/)
 - [Vite](https://vite.dev/)
@@ -16,7 +16,7 @@ Interface moderna inspirada na Amazon, desenvolvida com Vue 3, Vite e Tailwind C
 
 ---
 
-## 🛠️ Como rodar localmente
+##  Como rodar localmente
 
 Clone o repositório e instale as dependências:
 
@@ -46,6 +46,6 @@ npm run preview
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é desenvolvido para fins educacionais e de estudo de interface.
